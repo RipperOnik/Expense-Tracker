@@ -1,10 +1,17 @@
 # Expense Tracker
 ## Description 
-Expense Tracker is a web app coded in ASP.NET to track your income and expenses. You can create categories of expenses like grocery, eating outside, entertainment or income like salary or cashback. And then view different statistics like the expense chart, recent transactions, income vs expense graph and more!
+Expense Tracker is a web app coded in ASP.NET to track your income and expenses. You can create categories of expenses like grocery, eating outside, entertainment or income like salary or cashback. And then view different statistics like the expense chart, recent transactions, income vs. expense graph and more!
 
 ## Tech Stack
 - ASP.NET
-- SQL Server 
+- SQL Server
+
+## Video Demo 
+https://github.com/RipperOnik/Expense-Tracker/assets/55228345/a99508dc-fbb6-4bb2-9a11-717da1f8d5b2
+
+
+
+
 
 ## Screenshots
 ### Dashboard
